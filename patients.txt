@@ -1,1 +1,4 @@
+101,Ravi,28,Male,Chennai,9876543210,2023-08-21,Negative
+102,Anitha,35,Female,Salem,9123456780,2023-08-22,Positive
+103,Karthik,42,Male,Erode,9988776655,2023-08-23,Negative
 
